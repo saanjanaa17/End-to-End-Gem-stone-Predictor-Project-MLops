@@ -36,9 +36,9 @@ For more details on the grading system for diamonds, check out the [American Gem
 
 ---
 
-## Postman Testing of API:
+## Prediction:
 
-Below is an image showcasing the **API's** ability to predict gemstone prices when tested through **Postman**:
+Below is an image showcasing the **API's** ability to predict gemstone prices when tested :
 
 ![API Prediction](./Screenshots/APIPrediction.jpg)
 
